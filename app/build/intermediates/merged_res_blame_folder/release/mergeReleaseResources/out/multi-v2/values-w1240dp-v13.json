@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.basic_views_activity.app-mergeReleaseResources-6:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/d33tah/AndroidStudioProjects/basic_views_activity/app/src/main/res/values-w1240dp/dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.basic_views_activity.app-mergeReleaseResources-6:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/d33tah/AndroidStudioProjects/basic_views_activity/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endColumns": "41",
+                        "endOffsets": "301"
+                    }
+                },
+                {
+                    "source": "/home/d33tah/.gradle/caches/transforms-4/e7bec629cacc1ad3fcd270f95c6c5d86/transformed/appcompat-1.2.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

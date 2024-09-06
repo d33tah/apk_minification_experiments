@@ -1,0 +1,12 @@
+com.example.basic_views_activity.app-appcompat-resources-1.2.0-0 /home/d33tah/.gradle/caches/transforms-4/0992bcd856697511b45efc2665a77414/transformed/appcompat-resources-1.2.0/res
+com.example.basic_views_activity.app-constraintlayout-2.1.4-1 /home/d33tah/.gradle/caches/transforms-4/84d0dbde5fd5593b095049fb854be28c/transformed/constraintlayout-2.1.4/res
+com.example.basic_views_activity.app-core-1.3.2-2 /home/d33tah/.gradle/caches/transforms-4/d2266e286d8942f0cc336bc457cc9026/transformed/core-1.3.2/res
+com.example.basic_views_activity.app-appcompat-1.2.0-3 /home/d33tah/.gradle/caches/transforms-4/e7bec629cacc1ad3fcd270f95c6c5d86/transformed/appcompat-1.2.0/res
+com.example.basic_views_activity.app-pngs-4 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/build/generated/res/pngs/release
+com.example.basic_views_activity.app-resValues-5 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/build/generated/res/resValues/release
+com.example.basic_views_activity.app-packageReleaseResources-6 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.basic_views_activity.app-packageReleaseResources-7 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.basic_views_activity.app-merged-not-compiled-resources-8 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/build/intermediates/merged-not-compiled-resources/release
+com.example.basic_views_activity.app-release-9 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.basic_views_activity.app-main-10 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/src/main/res
+com.example.basic_views_activity.app-release-11 /home/d33tah/AndroidStudioProjects/basic_views_activity/app/src/release/res
